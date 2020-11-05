@@ -76,6 +76,8 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
+                      Insérer les catalogues ici<br>
+                      <img src="blob:https://musing-boyd-12ce5e.netlify.app/0cd24fab-78da-43a6-87aa-d3c1be55b3c1" alt="Xlast">
                   </div>
                 </div>
                 <div className="columns">
