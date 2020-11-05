@@ -76,8 +76,8 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
-                      Insérer les catalogues ici<br>
-                      <img src="" alt="Xlast">
+                      Insérer les catalogues ici
+                      
                   </div>
                 </div>
                 <div className="columns">
