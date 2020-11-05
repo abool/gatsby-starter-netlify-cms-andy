@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'ARteck Aménagement - Dijon',
+    title: 'Arteck Aménagement - Dijon',
     description:
       'Arteck vous accompagne dans vos réalisations de mobilier urbain, signalisation standard et spécifique, accessoires sécurité et hygiène.',
   },
