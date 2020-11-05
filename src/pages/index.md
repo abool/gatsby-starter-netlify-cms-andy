@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Arteck aménagement
-image: /img/home-jumbotron.jpg
+image: /img/home-urbain.jpg
 heading: Mobilier urbain, signalétique, autoroutes
 subheading: Mobilier urbain, signalétique, autoroutes
 mainpitch:
