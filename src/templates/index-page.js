@@ -78,8 +78,8 @@ export const IndexPageTemplate = ({
                     <h3 className="subtitle">{mainpitch.description}</h3>
                       <div>
                       Insérer les catalogues ici
-<img src="https://arteck-amenagement.fr/arteckimg/images/arteck/upload/xlast.jpg">
-                        
+
+                        {catalogues}
                       </div>
                       
                   </div>
