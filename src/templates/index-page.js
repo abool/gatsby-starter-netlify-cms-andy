@@ -5,7 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
-import xlast from '../img/xlast.jpg'
+import logo from '../img/xlast.jpg'
 
 export const IndexPageTemplate = ({
   image,
@@ -79,7 +79,7 @@ export const IndexPageTemplate = ({
                     <h3 className="subtitle">{mainpitch.description}</h3>
                       <div>
                       Insérer les catalogues ici<br>
-                        <img src={xlast} alt="Xlast" style={{ width: '88px' }} />
+                        <img src={logo} alt="Xlast" style={{ width: '88px' }} />
                       </div>
                       
                   </div>
