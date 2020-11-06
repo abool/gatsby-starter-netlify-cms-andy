@@ -76,8 +76,9 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
-                      <div>
+                      <br><div>
                       Insérer les catalogues ici
+<img src="https://arteck-amenagement.fr/arteckimg/images/arteck/upload/xlast.jpg">
                         
                       </div>
                       
