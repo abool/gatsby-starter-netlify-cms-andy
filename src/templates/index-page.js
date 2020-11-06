@@ -41,8 +41,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              'rgb(163, 151, 152) 0.5rem 0px 0px, rgb(163, 151, 152) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(161, 7, 14)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -54,8 +54,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              'rgb(163, 151, 152 0.5rem 0px 0px, rgb(163, 151, 152) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(161, 7, 14)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -78,8 +78,8 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
                       <div>
-                      Insérer les catalogues ici<br>
-                        gatsby don't like no img tags
+                      Insérer les catalogues ici
+                        
                       </div>
                       
                   </div>
