@@ -80,7 +80,7 @@ export const IndexPageTemplate = ({
                       <div>
                       Insérer les catalogues ici
 
-                        {catalogues}
+                        
                       </div>
                       
                   </div>
@@ -194,6 +194,8 @@ export const pageQuery = graphql`
             }
             texte_cat
           }
+          heading
+          description
         }
         description
         intro {
